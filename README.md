@@ -1,11 +1,11 @@
 # Desafio Hackathon Green Software
 
 
-## Backend - Springboot
+## Back-end - Springboot
 
 ## Enunciado
 
-O grupo Green Software Foundation está mapeando o grau de maturidade das empresas com ligação aos seus parceiros quanto aos Objetivos de Desenvolvimento Sustentável e entrou em contato com nossos Gestores solicitando algumas features com grande <Urgência>!
+O grupo Green Software Foundation está mapeando o grau de maturidade das empresas com ligação aos seus parceiros quanto aos Objetivos de Desenvolvimento Sustentável e entrou em contato com nossos Gestores solicitando algumas features com grande **Urgência**!
 
 Pela seu bom histórico de atuação em projetos anteriores, você foi um dos especialistas selecionados para entregar esta tarefa dentro do prazo!
 Porém como você já está alocado em um projeto e tem suas atividades e agendas cheias, será necessário trabalhar neste projeto fora do horário de trabalho! ;)
@@ -25,6 +25,7 @@ Em outras palavras, precisamos implementar **um novo endpoint** que recebe como 
 
 3. Nossa API deve retornar uma lista customizada de notícias publicadas pelo IBGE relacionadas a sustentabilidade, cada item da lista deve conter os seguintes atributos:
 * id;
+* titulo;
 * data_publicacao;
 * introducao;
 * link.
@@ -51,8 +52,8 @@ Obs: As notícias não virão da nossa base de dados, para obter as notícias de
 # Comandos e dicas
 
 ## Ambiente testado
-Maven 3.6.3
-Java 1.8
+* Maven 3.6.3
+* Java 1.8
 
 ## Compilar
 mvn package
