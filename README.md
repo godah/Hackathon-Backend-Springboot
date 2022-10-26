@@ -11,10 +11,6 @@ Pela seu bom histórico de atuação em projetos anteriores, você foi um dos es
 
 Em nosso projeto temos uma API que já disponibiliza dados de Empresas e seus ODS's, e também uma listagem de ODS's do banco.
 
-
-
-
-
 # A Green Software Foundation precisa das seguintes novas features:
 
 1. Nossa API precisa disponibilizar uma API para pesquisar em nossos bancos de dados, quais empresas tem um determinado ODS em comum.
@@ -45,8 +41,6 @@ Obs: As notícias não virão da nossa base de dados, para obter as notícias de
 * Buscar utilização os princípios do SOLID;
 * Padrões de projeto serão um diferencial;
 * Testes unitários não foram solicitados, mas são bem vindos!
-
-
 
 
 # Comandos e dicas
