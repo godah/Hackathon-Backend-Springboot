@@ -34,7 +34,7 @@ Obs: As notícias não virão da nossa base de dados, para obter as notícias de
 ## Considerações:
 
 * A avaliação será sobre o código desenvolvido;
-* Caso não termine todas as features solicitadas a tempo **entregue! Seu código será avaliado!**;
+* Caso não termine todas as features solicitadas a tempo entregue! **Seu código será avaliado!**;
 * É requisito que o projeto execute corretamente;
 * É requisito manter a documentação do Swagger atualizada;
 * Serão considerados os itens apresentados no último Tech Talks;
