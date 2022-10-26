@@ -25,7 +25,7 @@ Em outras palavras, precisamos implementar **um novo endpoint** que recebe como 
 * introducao;
 * link.
 
-### Em outras palavras, precisamos construir um endpoint que retora uma lista de notícias com os atributos acima.
+Em outras palavras, precisamos construir um endpoint que retora uma lista de notícias com os atributos acima.
 
 Obs: As notícias não virão da nossa base de dados, para obter as notícias devemos utilizar a seguinte API do IBGE: <http://servicodados.ibge.gov.br/api/v3/noticias/?busca=sustentabilidade> (atributo: items).
 
