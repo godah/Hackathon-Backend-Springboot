@@ -29,10 +29,12 @@ Em outras palavras, precisamos implementar **um novo endpoint** que recebe como 
 
 Obs: As notícias não virão da nossa base de dados, para obter as notícias devemos utilizar a seguinte API do IBGE: <http://servicodados.ibge.gov.br/api/v3/noticias/?busca=sustentabilidade> (atributo: items).
 
-
+4. **Entrega** - as entregas devem ser no próprio repositório do código, para isso você deve criar no repositório uma branch com seu nome (EID) separado por underline ( _ ) para enviar o código até o dia 06/11 às 22hrs.
 
 ## Considerações:
 
+* A avaliação será sobre o código desenvolvido;
+* Caso não termine todas as features solicitadas a tempo **entregue! Seu código será avaliado!**;
 * É requisito que o projeto execute corretamente;
 * É requisito manter a documentação do Swagger atualizada;
 * Serão considerados os itens apresentados no último Tech Talks;
